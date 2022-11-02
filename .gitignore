@@ -1,0 +1,6 @@
+# Files
+*.tmp
+
+# Caches
+__pycache__
+.pytest_cache
