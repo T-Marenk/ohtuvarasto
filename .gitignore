@@ -1,6 +1,10 @@
 # Files
 *.tmp
+.coverage
 
 # Caches
 __pycache__
 .pytest_cache
+
+# Directories
+htmlcov
